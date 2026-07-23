@@ -15,3 +15,5 @@ Berisi jadwal mata kuliah
 ## Kamis
 1. Sosiologi
 2. Sejarah
+
+## Jum'at
