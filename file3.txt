@@ -1,0 +1,5 @@
+list siswa
+
+1. Satria
+2. Salam
+3. Budi
