@@ -1,5 +1,13 @@
-list siswa
+list pengeluaran
+## 23 juni 2026
+1. bawang merah = 40.000
 
+## 24 juni 2026
+1. gula = 12.000
+
+
+
+list siswa
 1. Satria
 2. Salam
 3. Budi
@@ -9,3 +17,4 @@ list siswa
 list guru
 1. Budianto
 2. Supri
+
