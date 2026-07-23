@@ -10,12 +10,12 @@ Berisi jadwal mata kuliah
 
 ## Rabu
 1. mtk
-2. fisika
+2. informatika
 
 ## Kamis
 1. Sosiologi
 2. Sejarah
 
 ## Jum'at
-1. PJOK
+1. Penjaskes
 2. biologi
