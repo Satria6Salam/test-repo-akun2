@@ -7,3 +7,7 @@ Berisi jadwal mata kuliah
 ## Selasa
 1. bahasa arab
 2. bahasa inggris
+
+## Rabu
+1. mtk
+2. fisika
