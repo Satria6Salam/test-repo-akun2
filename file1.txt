@@ -1,0 +1,5 @@
+Berisi jadwal mata kuliah
+
+## Senin
+1. aljabar
+2. pancasila
