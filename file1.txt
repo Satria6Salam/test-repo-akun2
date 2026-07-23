@@ -11,3 +11,7 @@ Berisi jadwal mata kuliah
 ## Rabu
 1. mtk
 2. fisika
+
+## Kamis
+1. Sosiologi
+2. Sejarah
