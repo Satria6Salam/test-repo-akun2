@@ -3,3 +3,9 @@ list siswa
 1. Satria
 2. Salam
 3. Budi
+4. Wawan
+5. Solih
+
+list guru
+1. Budianto
+2. Supri
